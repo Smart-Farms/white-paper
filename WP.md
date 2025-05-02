@@ -58,6 +58,8 @@ Every sfUSD released into circulation will be connected to equivalent real-world
 
 The stack comprises multiple layers and possesses several features that are best comprehended through a diagram.
 
+![Diagram1](https://github.com/user-attachments/assets/c0a80cae-ca8a-41e6-b4d9-c5c8532eaaa6)
+
 In the first layer, the Base 2nd layer on the Ethereum blockchain hosts the sfUSD token, created with the ERC-20 standard. ERC-20 is a standard that defines how smart contracts can manage fungible tokens on Ethereum. It ensures all ERC-20 tokens are interoperable and compatible within the ecosystem. 
 
 Ethereum uses its own consensus mechanism to secure and maintain the integrity of the blockchain and its transactions.
@@ -67,8 +69,10 @@ The second layer is the smart contract proof of reserve payments account, which 
 ## Flow of Funds Process
 
 The sfUSD lifecycle includes seven steps, best illustrated with a diagram.
-  
-Example of an RWA Creator
+
+![Diagram2](https://github.com/user-attachments/assets/265ff5b3-f8f7-4f84-9c99-837250ada230)
+
+## Example of an RWA Creator
 
 Step 1 – Small farm Cities Africa (SFC), a Delaware-registered company, receives funds into U.S. bank account.
 
